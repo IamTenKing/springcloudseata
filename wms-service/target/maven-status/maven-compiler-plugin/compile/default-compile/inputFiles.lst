@@ -1,0 +1,9 @@
+D:\IdeaProjects\test\springcloudseata\wms-service\src\main\java\com\zoro\config\mq\WmsProducter.java
+D:\IdeaProjects\test\springcloudseata\wms-service\src\main\java\com\zoro\persistence\Wms.java
+D:\IdeaProjects\test\springcloudseata\wms-service\src\main\java\com\zoro\config\mq\WmsConsumer.java
+D:\IdeaProjects\test\springcloudseata\wms-service\src\main\java\com\zoro\config\mq\TransactionListenerImpl.java
+D:\IdeaProjects\test\springcloudseata\wms-service\src\main\java\com\zoro\controller\WmsController.java
+D:\IdeaProjects\test\springcloudseata\wms-service\src\main\java\com\zoro\persistence\WmsMapper.java
+D:\IdeaProjects\test\springcloudseata\wms-service\src\main\java\com\zoro\WmsApp.java
+D:\IdeaProjects\test\springcloudseata\wms-service\src\main\java\com\zoro\config\datasource\DataSourceProxyConfig.java
+D:\IdeaProjects\test\springcloudseata\wms-service\src\main\java\com\zoro\Service\WmsService.java

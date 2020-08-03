@@ -1,0 +1,4 @@
+com\zolo\config\mq\CallbackWmsConsumer$CallbackWmsMessageListener.class
+com\zolo\config\mq\CallbackWmsConsumer.class
+com\zolo\service\OrderService$1.class
+com\zolo\entity\CommonDto.class

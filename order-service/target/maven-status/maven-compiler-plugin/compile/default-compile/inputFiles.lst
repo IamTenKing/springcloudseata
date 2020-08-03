@@ -1,0 +1,6 @@
+D:\IdeaProjects\test\springcloudseata\order-service\src\main\java\com\zolo\config\mq\CallbackWmsConsumer.java
+D:\IdeaProjects\test\springcloudseata\order-service\src\main\java\com\zolo\controller\OrderController.java
+D:\IdeaProjects\test\springcloudseata\order-service\src\main\java\com\zolo\service\OrderService.java
+D:\IdeaProjects\test\springcloudseata\order-service\src\main\java\com\zolo\entity\CommonDto.java
+D:\IdeaProjects\test\springcloudseata\order-service\src\main\java\com\zolo\OrderApplication.java
+D:\IdeaProjects\test\springcloudseata\order-service\src\main\java\com\zolo\feign\UserFeignClient.java
